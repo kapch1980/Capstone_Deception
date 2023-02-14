@@ -5,13 +5,13 @@ Deception detection using NLP
 Kapil Chopra
 
 #### Executive summary
-Various methods are deployed by tech companies to detect deception in a conversation. Using machine learning, computers can provide "better than a chance" of identifying a deception. This data can be another data point for a human to decide which path to take. This solution can be deployed for fraud detection in Insurance claims, analyzing interview scripts, analyzing written evidences such as emails, product reviews, fake news detection and transcribed public speeches.
+Various methods are deployed by the companies to detect deception in a conversation. Using machine learning, computers can provide "better than a chance" of identifying a deception. This data can be another data point for a human to decide which path to take. This solution can be deployed for fraud detection in Insurance claims, analyzing interview scripts, analyzing written evidences such as emails, product reviews, fake news detection, hiring, criminal investigations and transcribed public speeches.
 
 #### Rationale
-Information is all around us. We constantly consume information from online videos, online text, blogs, presenatations, book and human interactions. How do we know the information we are consuming is legit and worth our time?
+Information is all around us. We constantly consume information from online videos, online text, blogs, presenatations, book and human interactions. How do we know the information we are consuming is legit and worth our time? Which cases should the investigatoes should spend their time on? 
 
 #### Research Question
-Could we score all presented text, video with a reliability score so that we can focus on what matters!
+Could we score all presented text, video with a reliability or a deception score so that the user can focus on what matters!
 
 #### Data Sources
 Data sources for this capstone 
