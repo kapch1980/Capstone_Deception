@@ -1,23 +1,29 @@
 ### Project Title
+Deception detection using NLP
 
 **Author**
+Kapil Chopra
 
 #### Executive summary
+Various methods are deployed by tech companies to detect deception in a conversation. Using machine learning, computers can provide "better than a chance" of identifying a deception. This data can be another data point for a human to decide which path to take. This solution can be deployed for fraud detection in Insurance claims, analyzing interview scripts, analyzing written evidences such as emails, product reviews, fake news detection and transcribed public speeches.
 
 #### Rationale
-Why should anyone care about this question?
+Information is all around us. We constantly consume information from online videos, online text, blogs, presenatations, book and human interactions. How do we know the information we are consuming is legit and worth our time?
 
 #### Research Question
-What are you trying to answer?
+Could we score all presented text, video with a reliability score so that we can focus on what matters!
 
 #### Data Sources
-What data will you use to answer you question?
+Data sources for this capstone 
+https://www.kaggle.com/datasets/rtatman/deceptive-opinion-spam-corpus
+https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection
+https://www.kaggle.com/code/therealsampat/fake-news-detection
 
 #### Methodology
-What methods are you using to answer the question?
+I would be applying the basic NLP techniques learnt in the course.
 
 #### Results
-What did your research find?
+TBD
 
 #### Outline of project
 
