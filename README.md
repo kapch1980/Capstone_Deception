@@ -15,8 +15,11 @@ Could we score all presented text, video with a reliability or a deception score
 
 #### Data Sources
 Data sources for this capstone 
+
 https://www.kaggle.com/datasets/rtatman/deceptive-opinion-spam-corpus
+
 https://www.kaggle.com/datasets/rmisra/news-headlines-dataset-for-sarcasm-detection
+
 https://www.kaggle.com/code/therealsampat/fake-news-detection
 
 #### Methodology
