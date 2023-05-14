@@ -23,13 +23,10 @@ https://www.kaggle.com/code/therealsampat/fake-news-detection
 I would be applying the basic NLP techniques learnt in the course.
 
 #### Results
-TBD
+LogisticRegression has very good success in predicting this NLP use case.
 
 #### Outline of project
-
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
-
+https://github.com/kapch1980/Capstone_Deception/blob/main/Capstone.ipynb
 
 ##### Contact and Further Information
+Kapil Chopra
