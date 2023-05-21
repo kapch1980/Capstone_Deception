@@ -28,6 +28,11 @@ I would be applying the basic NLP techniques learnt in the course.
 #### Results
 LogisticRegression has very good success in predicting this NLP use case.
 
+#### Next steps
+It's important to note that building an effective fraud detection system for reviews is an iterative process that involves continuous monitoring and refinement. 
+1. It may require ongoing updates to adapt to new types of fraud or evolving patterns in fraudulent reviews.
+2. It's crucial to complement it with other techniques and strategies, such as manual review, user feedback, and business rules, to enhance the fraud detection system's accuracy and robustness.
+
 #### Outline of project
 https://github.com/kapch1980/Capstone_Deception/blob/main/Capstone.ipynb
 
